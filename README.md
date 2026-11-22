@@ -29,3 +29,5 @@ An interactive 3-page Power BI report analyzing sales profitability, product dis
 - `Superstore_Executive_Dashboard.pbix` — Full Power BI report, data model, and DAX measures.
 - `Superstore_Executive_Dashboard.pdf` — Static 3-page export for quick viewing.
 - `images/` — High-resolution screenshots of each report page.
+
+- `DAX_Measures.md` — Complete formula reference and business explanations ([View Full DAX Measures Reference](DAX_Measures.md)).
