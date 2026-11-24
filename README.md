@@ -2,6 +2,10 @@
 
 An interactive 3-page Power BI report analyzing sales profitability, product discounting impact, and shipping/return operations across a star-schema data model (`Orders`, `Returns`, `Users`, and a custom `Calendar` table).
 
+## Problem Statement
+
+Leadership and regional managers need a unified view of sales growth, profit margins, discounting impact, and fulfillment/return performance across product lines and shipping channels. Without consolidated tracking, high-discount promotions can erode net profit while fulfillment delays and product returns quietly reduce revenue and customer retention. This report establishes a star-schema data model (`Orders`, `Returns`, `Users`, and a custom `Calendar` table) and interactive three-page dashboard in Power BI to pinpoint margin leakage, evaluate discount trade-offs, and monitor shipping and return trends across regions and time periods.
+
 ## Pages & Visual Highlights
 
 ### 1. Executive Sales & Profitability Overview
